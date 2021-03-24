@@ -26,7 +26,7 @@ namespace REG
 
         private bool IsEmailVaild()
         {
-            Regex reg = new Regex("^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+$");
+            Regex reg = new Regex(@"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+$");
             string text = txtEmail.Text;
             return reg.IsMatch(text);
         }
