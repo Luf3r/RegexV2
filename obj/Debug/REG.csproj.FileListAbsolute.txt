@@ -1,0 +1,14 @@
+C:\Users\Monn\source\repos\REG\bin\Debug\REG.exe.config
+C:\Users\Monn\source\repos\REG\bin\Debug\REG.exe
+C:\Users\Monn\source\repos\REG\bin\Debug\REG.pdb
+C:\Users\Monn\source\repos\REG\obj\Debug\REG.csprojAssemblyReference.cache
+C:\Users\Monn\source\repos\REG\obj\Debug\MainWindow.baml
+C:\Users\Monn\source\repos\REG\obj\Debug\MainWindow.g.cs
+C:\Users\Monn\source\repos\REG\obj\Debug\App.g.cs
+C:\Users\Monn\source\repos\REG\obj\Debug\REG_MarkupCompile.cache
+C:\Users\Monn\source\repos\REG\obj\Debug\REG.g.resources
+C:\Users\Monn\source\repos\REG\obj\Debug\REG.Properties.Resources.resources
+C:\Users\Monn\source\repos\REG\obj\Debug\REG.csproj.GenerateResource.cache
+C:\Users\Monn\source\repos\REG\obj\Debug\REG.csproj.CoreCompileInputs.cache
+C:\Users\Monn\source\repos\REG\obj\Debug\REG.exe
+C:\Users\Monn\source\repos\REG\obj\Debug\REG.pdb
