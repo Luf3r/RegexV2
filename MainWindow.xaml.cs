@@ -1,5 +1,5 @@
-﻿using System.Windows;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
+using System.Windows;
 
 namespace REG
 {
@@ -44,7 +44,6 @@ namespace REG
             {
                 Name.Content = "Name : Bad";
             }
-
             else
             {
                 Name.Content = "Name : Good";
@@ -54,7 +53,6 @@ namespace REG
             {
                 Dob.Content = "Date of Birth : Bad";
             }
-
             else
             {
                 Dob.Content = "Date of Birth : Good";
@@ -64,7 +62,6 @@ namespace REG
             {
                 Email.Content = "Email : Bad";
             }
-
             else
             {
                 Email.Content = "Email : Good";
@@ -74,7 +71,6 @@ namespace REG
             {
                 Phone.Content = "Phone Number : Bad";
             }
-
             else
             {
                 Phone.Content = "Phone Number : Good";

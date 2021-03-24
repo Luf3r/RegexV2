@@ -6,17 +6,16 @@
         mc:Ignorable="d"
         Title="Regex" Height="212" Width="404">
     <Grid>
-        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="20,20,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140"/>
-        <TextBox x:Name="txtDoB" HorizontalAlignment="Left" Height="23" Margin="20,48,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140"/>
-        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="23" Margin="20,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140"/>
-        <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Height="23" Margin="20,104,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="20,20,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140" />
+        <TextBox x:Name="txtDoB" HorizontalAlignment="Left" Height="23" Margin="20,48,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140" />
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="23" Margin="20,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140" />
+        <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Height="23" Margin="20,104,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140" />
 
-        <Label x:Name="Name" Content="Name : Unknown" HorizontalAlignment="Left" Margin="192,20,0,0" VerticalAlignment="Top" Height="23" Width="123"/>
-        <Label x:Name="Dob" Content="Date of Birth : Unknown" HorizontalAlignment="Left" Margin="192,48,0,0" VerticalAlignment="Top" Height="23" Width="143"/>
-        <Label x:Name="Email" Content="Email : Unknown" HorizontalAlignment="Left" Margin="192,76,0,0" VerticalAlignment="Top" Height="23" Width="143"/>
-        <Label x:Name="Phone" Content="Phone Number : Unknown" HorizontalAlignment="Left" Margin="192,104,0,0" VerticalAlignment="Top" Height="23" Width="158"/>
+        <Label x:Name="Name" Content="Name : Unknown" HorizontalAlignment="Left" Margin="192,20,0,0" VerticalAlignment="Top" Height="23" Width="123" />
+        <Label x:Name="Dob" Content="Date of Birth : Unknown" HorizontalAlignment="Left" Margin="192,48,0,0" VerticalAlignment="Top" Height="23" Width="143" />
+        <Label x:Name="Email" Content="Email : Unknown" HorizontalAlignment="Left" Margin="192,76,0,0" VerticalAlignment="Top" Height="23" Width="143" />
+        <Label x:Name="Phone" Content="Phone Number : Unknown" HorizontalAlignment="Left" Margin="192,104,0,0" VerticalAlignment="Top" Height="23" Width="158" />
 
-        <Button Content="Check" x:Name="btn_Check" Click="btn_Check_Click" HorizontalAlignment="Left" Margin="20,145,0,0" VerticalAlignment="Top" Width="140" RenderTransformOrigin="-0.667,-0.5"/>
-
+        <Button Content="Check" x:Name="btn_Check" Click="btn_Check_Click" HorizontalAlignment="Left" Margin="20,145,0,0" VerticalAlignment="Top" Width="140" RenderTransformOrigin="-0.667,-0.5" />
     </Grid>
 </Window>
