@@ -24,7 +24,7 @@ namespace REG
             return reg.IsMatch(text);
         }
 
-        private bool IsEmailVaild()
+        private bool IsEmailValid()
         {
             Regex reg = new Regex(@"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+$");
             string text = txtEmail.Text;
@@ -40,41 +40,13 @@ namespace REG
 
         private void btn_Check_Click(object sender, RoutedEventArgs e)
         {
-            if (!IsNameValid())
-            {
-                Name.Content = "Name : Bad";
-            }
-            else
-            {
-                Name.Content = "Name : Good";
-            }
+            Name.Content = !IsNameValid() ? "Name : Bad" : "Name : Good";
 
-            if (!IsDoBValid())
-            {
-                Dob.Content = "Date of Birth : Bad";
-            }
-            else
-            {
-                Dob.Content = "Date of Birth : Good";
-            }
+            Dob.Content = !IsDoBValid() ? "Date of Birth : Bad" : "Date of Birth : Good";
 
-            if (!IsEmailVaild())
-            {
-                Email.Content = "Email : Bad";
-            }
-            else
-            {
-                Email.Content = "Email : Good";
-            }
+            Email.Content = !IsEmailValid() ? "Email : Bad" : "Email : Good";
 
-            if (!IsPhoneNrValid())
-            {
-                Phone.Content = "Phone Number : Bad";
-            }
-            else
-            {
-                Phone.Content = "Phone Number : Good";
-            }
+            Phone.Content = !IsPhoneNrValid() ? "Phone Number : Bad" : "Phone Number : Good";
         }
     }
 }

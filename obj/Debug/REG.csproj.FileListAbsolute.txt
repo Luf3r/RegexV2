@@ -12,3 +12,17 @@ C:\Users\Monn\source\repos\REG\obj\Debug\REG.csproj.GenerateResource.cache
 C:\Users\Monn\source\repos\REG\obj\Debug\REG.csproj.CoreCompileInputs.cache
 C:\Users\Monn\source\repos\REG\obj\Debug\REG.exe
 C:\Users\Monn\source\repos\REG\obj\Debug\REG.pdb
+D:\Rider Project\bin\Debug\REG.exe.config
+D:\Rider Project\bin\Debug\REG.exe
+D:\Rider Project\bin\Debug\REG.pdb
+D:\Rider Project\obj\Debug\REG.csprojAssemblyReference.cache
+D:\Rider Project\obj\Debug\MainWindow.baml
+D:\Rider Project\obj\Debug\MainWindow.g.cs
+D:\Rider Project\obj\Debug\App.g.cs
+D:\Rider Project\obj\Debug\REG_MarkupCompile.cache
+D:\Rider Project\obj\Debug\REG.g.resources
+D:\Rider Project\obj\Debug\REG.Properties.Resources.resources
+D:\Rider Project\obj\Debug\REG.csproj.GenerateResource.cache
+D:\Rider Project\obj\Debug\REG.csproj.CoreCompileInputs.cache
+D:\Rider Project\obj\Debug\REG.exe
+D:\Rider Project\obj\Debug\REG.pdb
